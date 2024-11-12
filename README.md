@@ -77,3 +77,11 @@ If you want to clone the project using the terminal:
    ```
 4. Open the `index.html` file in any browser to view and use the app.
 
+## Credits
+
+This repository contains projects that were inspired by tutorials I followed on YouTube. 
+
+- **YouTube Tutorial**: [Link to the tutorial video](https://www.youtube.com/watch?v=PBcqGxrr9g8&t=1566s)  
+  - I followed this tutorial to build a quiz app from scratch and then customized it for my learning.
+
+Feel free to check the video for more details on how the project was created!
