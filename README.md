@@ -10,6 +10,15 @@ A simple and interactive quiz application built using **HTML**, **CSS**, and **J
 - **Responsive Design**: The app works well on both desktop and mobile devices.
 - **Minimalistic Design**: Clean and modern layout for an optimal user experience.
 
+![Image 1](1.png)
+
+This is the first image of the app.
+
+![Image 2](2.png)
+
+This is the second image of the app.
+
+
 ## Technologies Used
 
 - **HTML**: Structure of the web page.
